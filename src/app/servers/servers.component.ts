@@ -8,8 +8,6 @@ import { Component } from '@angular/core';
   template:`
     <app-server></app-server>
     <app-server></app-server>
-    <app-warning-alert></app-warning-alert>
-    <app-success-alert></app-success-alert>
     `,
   styleUrls: ['./servers.component.css']
 })

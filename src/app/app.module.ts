@@ -5,8 +5,6 @@ import {FormsModule}from '@angular/forms';
 import { AppComponent } from './app.component';
 import {ServerComponent} from './server/server.component';
 import { ServersComponent } from './servers/servers.component';
-import { WarningalertComponent } from './warningalert/warningalert.component';
-import { SuccesalertComponent } from './succesalert/succesalert.component';
 
 
 
@@ -15,8 +13,6 @@ import { SuccesalertComponent } from './succesalert/succesalert.component';
     AppComponent,
     ServerComponent,
     ServersComponent,
-    WarningalertComponent,
-    SuccesalertComponent
   ],
   imports: [
     BrowserModule,
